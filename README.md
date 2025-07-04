@@ -1,5 +1,5 @@
 
-Must have downloaded:
+Nice Tutorial
 ```
 https://www.akkadia.org/drepper/cpumemory.pdf
 https://cs.lmu.edu/~ray/notes/nasmtutorial/
